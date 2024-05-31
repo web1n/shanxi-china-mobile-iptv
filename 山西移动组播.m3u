@@ -1,326 +1,302 @@
 #EXTM3U
 
-#EXTINF:-1,山西卫视
+#EXTINF:-1  tvg-name="山西卫视" group-title="本地",山西卫视
 http://192.168.31.2:52636/udp/224.30.30.96:8115
-#EXTINF:-1,黄河卫视
+#EXTINF:-1  tvg-name="黄河卫视" group-title="本地",黄河卫视
 http://192.168.31.2:52636/udp/224.30.30.97:8116
-#EXTINF:-1,山西经济
+#EXTINF:-1  tvg-name="山西经济" group-title="本地",山西经济
 http://192.168.31.2:52636/udp/224.30.30.98:8117
-#EXTINF:-1,山西影视
+#EXTINF:-1  tvg-name="山西影视" group-title="本地",山西影视
 http://192.168.31.2:52636/udp/224.30.30.99:8118
-#EXTINF:-1,山西社会法治
+#EXTINF:-1  tvg-name="山西社会法治" group-title="本地",山西社会法治
 http://192.168.31.2:52636/udp/224.30.30.100:8119
-#EXTINF:-1,山西文体生活
+#EXTINF:-1  tvg-name="山西文体生活" group-title="本地",山西文体生活
 http://192.168.31.2:52636/udp/224.30.30.101:8120
-
-#EXTINF:-1,太原-1
+#EXTINF:-1  tvg-name="太原-1" group-title="本地",太原-1
 http://192.168.31.2:52636/udp/224.30.30.156:8175
-#EXTINF:-1,太原-2
+#EXTINF:-1  tvg-name="太原-2" group-title="本地",太原-2
 http://192.168.31.2:52636/udp/224.30.30.157:8176
-#EXTINF:-1,太原-3
+#EXTINF:-1  tvg-name="太原-3" group-title="本地",太原-3
 http://192.168.31.2:52636/udp/224.30.30.158:8177
-#EXTINF:-1,太原-4
+#EXTINF:-1  tvg-name="太原-4" group-title="本地",太原-4
 http://192.168.31.2:52636/udp/224.30.30.159:8178
-#EXTINF:-1,太原-5
+#EXTINF:-1  tvg-name="太原-5" group-title="本地",太原-5
 http://192.168.31.2:52636/udp/224.30.30.160:8179
-#EXTINF:-1,太原教育
+#EXTINF:-1  tvg-name="太原教育" group-title="本地",太原教育
 http://192.168.31.2:52636/udp/224.30.30.151:8170
-#EXTINF:-1,太原-伯乐购
-http://192.168.31.2:52636/udp/224.30.30.161:8180
-
-#EXTINF:-1,运城-1
+#EXTINF:-1  tvg-name="运城-1" group-title="本地",运城-1
 http://192.168.31.2:52636/udp/224.30.30.223:8242
-#EXTINF:-1,运城-2
+#EXTINF:-1  tvg-name="运城-2" group-title="本地",运城-2
 http://192.168.31.2:52636/udp/224.30.30.224:8243
-#EXTINF:-1,运城盐湖
+#EXTINF:-1  tvg-name="运城盐湖" group-title="本地",运城盐湖
 http://192.168.31.2:52636/udp/224.30.30.225:8244
-#EXTINF:-1,运城稷山
+#EXTINF:-1  tvg-name="运城稷山" group-title="本地",运城稷山
 http://192.168.31.2:52636/udp/224.30.30.209:8228
-#EXTINF:-1,晋中综合
+#EXTINF:-1  tvg-name="晋中综合" group-title="本地",晋中综合
 http://192.168.31.2:52636/udp/224.30.30.229:8248
-#EXTINF:-1,晋中公共
+#EXTINF:-1  tvg-name="晋中公共" group-title="本地",晋中公共
 http://192.168.31.2:52636/udp/224.30.30.230:8249
-#EXTINF:-1,晋中太古
+#EXTINF:-1  tvg-name="晋中太古" group-title="本地",晋中太古
 http://192.168.31.2:52636/udp/224.30.30.210:8229
-#EXTINF:-1,晋中左权
+#EXTINF:-1  tvg-name="晋中左权" group-title="本地",晋中左权
 http://192.168.31.2:52636/udp/224.30.30.144:8163
-#EXTINF:-1,阳泉新闻综合
+#EXTINF:-1  tvg-name="阳泉新闻综合" group-title="本地",阳泉新闻综合
 http://192.168.31.2:52636/udp/224.30.30.166:8185
-#EXTINF:-1,阳泉科教
+#EXTINF:-1  tvg-name="阳泉科教" group-title="本地",阳泉科教
 http://192.168.31.2:52636/udp/224.30.30.167:8186
-#EXTINF:-1,阳泉平定综合
+#EXTINF:-1  tvg-name="阳泉平定综合" group-title="本地",阳泉平定综合
 http://192.168.31.2:52636/udp/224.30.30.208:8227
-#EXTINF:-1,朔州-1
+#EXTINF:-1  tvg-name="朔州-1" group-title="本地",朔州-1
 http://192.168.31.2:52636/udp/224.30.30.149:8168
-#EXTINF:-1,朔州-2
+#EXTINF:-1  tvg-name="朔州-2" group-title="本地",朔州-2
 http://192.168.31.2:52636/udp/224.30.30.150:8169
-#EXTINF:-1,临汾永和
+#EXTINF:-1  tvg-name="临汾永和" group-title="本地",临汾永和
 http://192.168.31.2:52636/udp/224.30.30.162:8181
-#EXTINF:-1,长治潞州
+#EXTINF:-1  tvg-name="长治潞州" group-title="本地",长治潞州
 http://192.168.31.2:52636/udp/224.30.30.163:8182
-#EXTINF:-1,霍州频道
+#EXTINF:-1  tvg-name="霍州频道" group-title="本地",霍州频道
 http://192.168.31.2:52636/udp/224.30.30.152:8171
-
-
-#EXTINF:-1,CCTV-1
+#EXTINF:-1  tvg-name="山西焦煤" group-title="本地",山西焦煤
+http://192.168.31.2:52636/udp/224.30.30.143:8162
+#EXTINF:-1  tvg-name="CCTV-1" group-title="央视",CCTV-1
 http://192.168.31.2:52636/udp/224.30.30.226:8245
-#EXTINF:-1,CCTV-2
+#EXTINF:-1  tvg-name="CCTV-2" group-title="央视",CCTV-2
 http://192.168.31.2:52636/udp/224.30.30.1:8020
-#EXTINF:-1,CCTV-3
+#EXTINF:-1  tvg-name="CCTV-3" group-title="央视",CCTV-3
 http://192.168.31.2:52636/udp/224.30.30.121:8140
-#EXTINF:-1,CCTV-4
+#EXTINF:-1  tvg-name="CCTV-4" group-title="央视",CCTV-4
 http://192.168.31.2:52636/udp/224.30.30.4:8023
-#EXTINF:-1,CCTV-4 中文国际欧洲
+#EXTINF:-1  tvg-name="CCTV-4 中文国际欧洲" group-title="央视",CCTV-4 中文国际欧洲
 http://192.168.31.2:52636/udp/224.30.30.215:8234
-#EXTINF:-1,CCTV-4 中文国际美洲
+#EXTINF:-1  tvg-name="CCTV-4 中文国际美洲" group-title="央视",CCTV-4 中文国际美洲
 http://192.168.31.2:52636/udp/224.30.30.216:8235
-#EXTINF:-1,CCTV-5
+#EXTINF:-1  tvg-name="CCTV-5" group-title="央视",CCTV-5
 http://192.168.31.2:52636/udp/224.30.30.122:8141
-#EXTINF:-1,CCTV-5+
+#EXTINF:-1  tvg-name="CCTV-5+" group-title="央视",CCTV-5+
 http://192.168.31.2:52636/udp/224.30.30.5:8024
-#EXTINF:-1,CCTV-6
+#EXTINF:-1  tvg-name="CCTV-6" group-title="央视",CCTV-6
 http://192.168.31.2:52636/udp/224.30.30.123:8142
-#EXTINF:-1,CCTV-7
+#EXTINF:-1  tvg-name="CCTV-7" group-title="央视",CCTV-7
 http://192.168.31.2:52636/udp/224.30.30.2:8021
-#EXTINF:-1,CCTV-8
+#EXTINF:-1  tvg-name="CCTV-8" group-title="央视",CCTV-8
 http://192.168.31.2:52636/udp/224.30.30.124:8143
-#EXTINF:-1,CCTV-9
+#EXTINF:-1  tvg-name="CCTV-9" group-title="央视",CCTV-9
 http://192.168.31.2:52636/udp/224.30.30.3:8022
-#EXTINF:-1,CCTV-10
+#EXTINF:-1  tvg-name="CCTV-10" group-title="央视",CCTV-10
 http://192.168.31.2:52636/udp/224.30.30.17:8036
-#EXTINF:-1,CCTV-11
+#EXTINF:-1  tvg-name="CCTV-11" group-title="央视",CCTV-11
 http://192.168.31.2:52636/udp/224.30.30.45:8064
-#EXTINF:-1,CCTV-12
+#EXTINF:-1  tvg-name="CCTV-12" group-title="央视",CCTV-12
 http://192.168.31.2:52636/udp/224.30.30.18:8037
-#EXTINF:-1,CCTV-13
+#EXTINF:-1  tvg-name="CCTV-13" group-title="央视",CCTV-13
 http://192.168.31.2:52636/udp/224.30.30.227:8246
-#EXTINF:-1,CCTV-14
+#EXTINF:-1  tvg-name="CCTV-14" group-title="央视",CCTV-14
 http://192.168.31.2:52636/udp/224.30.30.19:8038
-#EXTINF:-1,CCTV-15
+#EXTINF:-1  tvg-name="CCTV-15" group-title="央视",CCTV-15
 http://192.168.31.2:52636/udp/224.30.30.46:8065
-#EXTINF:-1,CCTV-16
+#EXTINF:-1  tvg-name="CCTV-16" group-title="央视",CCTV-16
 http://192.168.31.2:52636/udp/224.30.30.207:8226
-#EXTINF:-1,CCTV-17
+#EXTINF:-1  tvg-name="CCTV-17" group-title="央视",CCTV-17
 http://192.168.31.2:52636/udp/224.30.30.148:8167
-
-#EXTINF:-1,CCTV-4K超高清
+#EXTINF:-1  tvg-name="CCTV-4K超高清" group-title="央视",CCTV-4K超高清
 http://192.168.31.2:52636/udp/224.30.30.142:8161
-#EXTINF:-1,CCTV-女性时尚
+#EXTINF:-1  tvg-name="CCTV-女性时尚" group-title="央视",CCTV-女性时尚
 http://192.168.31.2:52636/udp/224.30.30.71:8090
-#EXTINF:-1,CCTV-电视指南
+#EXTINF:-1  tvg-name="CCTV-电视指南" group-title="央视",CCTV-电视指南
 http://192.168.31.2:52636/udp/224.30.30.79:8098
-#EXTINF:-1,CCTV-央视文化精品
+#EXTINF:-1  tvg-name="CCTV-央视文化精品" group-title="央视",CCTV-央视文化精品
 http://192.168.31.2:52636/udp/224.30.30.80:8099
-#EXTINF:-1,CCTV-怀旧剧场
+#EXTINF:-1  tvg-name="CCTV-怀旧剧场" group-title="央视",CCTV-怀旧剧场
 http://192.168.31.2:52636/udp/224.30.30.81:8100
-#EXTINF:-1,CCTV-风云足球
+#EXTINF:-1  tvg-name="CCTV-风云足球" group-title="央视",CCTV-风云足球
 http://192.168.31.2:52636/udp/224.30.30.82:8101
-#EXTINF:-1,CCTV-兵器科技
+#EXTINF:-1  tvg-name="CCTV-兵器科技" group-title="央视",CCTV-兵器科技
 http://192.168.31.2:52636/udp/224.30.30.83:8102
-#EXTINF:-1,CCTV-风云音乐
+#EXTINF:-1  tvg-name="CCTV-风云音乐" group-title="央视",CCTV-风云音乐
 http://192.168.31.2:52636/udp/224.30.30.84:8103
-#EXTINF:-1,CCTV-风云剧场
+#EXTINF:-1  tvg-name="CCTV-风云剧场" group-title="央视",CCTV-风云剧场
 http://192.168.31.2:52636/udp/224.30.30.85:8104
-#EXTINF:-1,CCTV-第一剧场
+#EXTINF:-1  tvg-name="CCTV-第一剧场" group-title="央视",CCTV-第一剧场
 http://192.168.31.2:52636/udp/224.30.30.86:8105
-#EXTINF:-1,CCTV-央视台球
+#EXTINF:-1  tvg-name="CCTV-央视台球" group-title="央视",CCTV-央视台球
 http://192.168.31.2:52636/udp/224.30.30.153:8172
-#EXTINF:-1,CCTV-高尔夫网球
+#EXTINF:-1  tvg-name="CCTV-高尔夫网球" group-title="央视",CCTV-高尔夫网球
 http://192.168.31.2:52636/udp/224.30.30.129:8148
-#EXTINF:-1,CCTV-世界地理
+#EXTINF:-1  tvg-name="CCTV-世界地理" group-title="央视",CCTV-世界地理
 http://192.168.31.2:52636/udp/224.30.30.130:8149
-
-
-#EXTINF:-1,CGTN
-http://192.168.31.2:52636/udp/224.30.30.217:8236
-#EXTINF:-1,CGTN-记录
-http://192.168.31.2:52636/udp/224.30.30.218:8237
-#EXTINF:-1,CGTN-西班牙
-http://192.168.31.2:52636/udp/224.30.30.219:8238
-#EXTINF:-1,CGTN-法语
-http://192.168.31.2:52636/udp/224.30.30.220:8239
-#EXTINF:-1,CGTN-阿拉伯
-http://192.168.31.2:52636/udp/224.30.30.221:8240
-#EXTINF:-1,CGTN-俄语
-http://192.168.31.2:52636/udp/224.30.30.222:8241
-
-
-#EXTINF:-1,CETV-1
-http://192.168.31.2:52636/udp/224.30.30.53:8072
-#EXTINF:-1,CETV-2
-http://192.168.31.2:52636/udp/224.30.30.40:8059
-#EXTINF:-1,CETV-4
-http://192.168.31.2:52636/udp/224.30.30.41:8060
-#EXTINF:-1,CETV-早期教育
-http://192.168.31.2:52636/udp/224.30.30.231:8250
-
-#EXTINF:-1,中央新影-中学生
-http://192.168.31.2:52636/udp/224.30.30.56:8075
-#EXTINF:-1,中央新影-老故事
-http://192.168.31.2:52636/udp/224.30.30.72:8091
-#EXTINF:-1,中央新影-发现之旅
-http://192.168.31.2:52636/udp/224.30.30.165:8184
-
-
-#EXTINF:-1,北京卫视
+#EXTINF:-1  tvg-name="北京卫视" group-title="卫视",北京卫视
 http://192.168.31.2:52636/udp/224.30.30.9:8028
-#EXTINF:-1,北京纪实科教
-http://192.168.31.2:52636/udp/224.30.30.8:8027
-#EXTINF:-1,天津卫视
+#EXTINF:-1  tvg-name="天津卫视" group-title="卫视",天津卫视
 http://192.168.31.2:52636/udp/224.30.30.228:8247
-#EXTINF:-1,山东卫视
+#EXTINF:-1  tvg-name="山东卫视" group-title="卫视",山东卫视
 http://192.168.31.2:52636/udp/224.30.30.6:8025
-#EXTINF:-1,山东教育卫视
+#EXTINF:-1  tvg-name="山东教育卫视" group-title="卫视",山东教育卫视
 http://192.168.31.2:52636/udp/224.30.30.140:8159
-#EXTINF:-1,湖北卫视
+#EXTINF:-1  tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://192.168.31.2:52636/udp/224.30.30.7:8026
-#EXTINF:-1,辽宁卫视
+#EXTINF:-1  tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
 http://192.168.31.2:52636/udp/224.30.30.10:8029
-#EXTINF:-1,重庆卫视
+#EXTINF:-1  tvg-name="重庆卫视" group-title="卫视",重庆卫视
 http://192.168.31.2:52636/udp/224.30.30.11:8030
-#EXTINF:-1,贵州卫视
+#EXTINF:-1  tvg-name="贵州卫视" group-title="卫视",贵州卫视
 http://192.168.31.2:52636/udp/224.30.30.12:8031
-#EXTINF:-1,江西卫视
+#EXTINF:-1  tvg-name="江西卫视" group-title="卫视",江西卫视
 http://192.168.31.2:52636/udp/224.30.30.13:8032
-#EXTINF:-1,河南卫视
+#EXTINF:-1  tvg-name="河南卫视" group-title="卫视",河南卫视
 http://192.168.31.2:52636/udp/224.30.30.14:8033
-#EXTINF:-1,天津卫视
-http://192.168.31.2:52636/udp/224.30.30.15:8034
-#EXTINF:-1,安徽卫视
+#EXTINF:-1  tvg-name="安徽卫视" group-title="卫视",安徽卫视
 http://192.168.31.2:52636/udp/224.30.30.16:8035
-#EXTINF:-1,嘉佳卡通
-http://192.168.31.2:52636/udp/224.30.30.20:8039
-#EXTINF:-1,大湾区卫视
+#EXTINF:-1  tvg-name="大湾区卫视" group-title="卫视",大湾区卫视
 http://192.168.31.2:52636/udp/224.30.30.21:8040
-#EXTINF:-1,海南卫视
+#EXTINF:-1  tvg-name="海南卫视" group-title="卫视",海南卫视
 http://192.168.31.2:52636/udp/224.30.30.22:8041
-#EXTINF:-1,西藏卫视
+#EXTINF:-1  tvg-name="西藏卫视" group-title="卫视",西藏卫视
 http://192.168.31.2:52636/udp/224.30.30.23:8042
-#EXTINF:-1,兵团卫视
+#EXTINF:-1  tvg-name="兵团卫视" group-title="卫视",兵团卫视
 http://192.168.31.2:52636/udp/224.30.30.24:8043
-#EXTINF:-1,三沙卫视
+#EXTINF:-1  tvg-name="三沙卫视" group-title="卫视",三沙卫视
 http://192.168.31.2:52636/udp/224.30.30.25:8044
-#EXTINF:-1,新疆卫视
+#EXTINF:-1  tvg-name="新疆卫视" group-title="卫视",新疆卫视
 http://192.168.31.2:52636/udp/224.30.30.26:8045
-#EXTINF:-1,湖南卫视
+#EXTINF:-1  tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://192.168.31.2:52636/udp/224.30.30.27:8046
-#EXTINF:-1,东方卫视
+#EXTINF:-1  tvg-name="东方卫视" group-title="卫视",东方卫视
 http://192.168.31.2:52636/udp/224.30.30.29:8048
-#EXTINF:-1,四川卫视
+#EXTINF:-1  tvg-name="四川卫视" group-title="卫视",四川卫视
 http://192.168.31.2:52636/udp/224.30.30.31:8050
-#EXTINF:-1,黑龙江卫视
+#EXTINF:-1  tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
 http://192.168.31.2:52636/udp/224.30.30.32:8051
-#EXTINF:-1,广东卫视
+#EXTINF:-1  tvg-name="广东卫视" group-title="卫视",广东卫视
 http://192.168.31.2:52636/udp/224.30.30.34:8053
-#EXTINF:-1,深圳卫视
+#EXTINF:-1  tvg-name="深圳卫视" group-title="卫视",深圳卫视
 http://192.168.31.2:52636/udp/224.30.30.35:8054
-#EXTINF:-1,江苏卫视
+#EXTINF:-1  tvg-name="江苏卫视" group-title="卫视",江苏卫视
 http://192.168.31.2:52636/udp/224.30.30.36:8055
-#EXTINF:-1,浙江卫视
+#EXTINF:-1  tvg-name="浙江卫视" group-title="卫视",浙江卫视
 http://192.168.31.2:52636/udp/224.30.30.37:8056
-#EXTINF:-1,河北卫视
+#EXTINF:-1  tvg-name="河北卫视" group-title="卫视",河北卫视
 http://192.168.31.2:52636/udp/224.30.30.38:8057
-#EXTINF:-1,吉林卫视
+#EXTINF:-1  tvg-name="吉林卫视" group-title="卫视",吉林卫视
 http://192.168.31.2:52636/udp/224.30.30.39:8058
-#EXTINF:-1,厦门卫视
+#EXTINF:-1  tvg-name="厦门卫视" group-title="卫视",厦门卫视
 http://192.168.31.2:52636/udp/224.30.30.42:8061
-#EXTINF:-1,广西卫视
+#EXTINF:-1  tvg-name="广西卫视" group-title="卫视",广西卫视
 http://192.168.31.2:52636/udp/224.30.30.48:8067
-#EXTINF:-1,云南卫视
+#EXTINF:-1  tvg-name="云南卫视" group-title="卫视",云南卫视
 http://192.168.31.2:52636/udp/224.30.30.49:8068
-#EXTINF:-1,青海卫视
+#EXTINF:-1  tvg-name="青海卫视" group-title="卫视",青海卫视
 http://192.168.31.2:52636/udp/224.30.30.51:8070
-#EXTINF:-1,内蒙古卫视
+#EXTINF:-1  tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
 http://192.168.31.2:52636/udp/224.30.30.52:8071
-#EXTINF:-1,东南卫视
+#EXTINF:-1  tvg-name="东南卫视" group-title="卫视",东南卫视
 http://192.168.31.2:52636/udp/224.30.30.54:8073
-#EXTINF:-1,宁夏卫视
+#EXTINF:-1  tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
 http://192.168.31.2:52636/udp/224.30.30.58:8077
-#EXTINF:-1,陕西卫视
+#EXTINF:-1  tvg-name="陕西卫视" group-title="卫视",陕西卫视
 http://192.168.31.2:52636/udp/224.30.30.59:8078
-#EXTINF:-1,甘肃卫视
+#EXTINF:-1  tvg-name="甘肃卫视" group-title="卫视",甘肃卫视
 http://192.168.31.2:52636/udp/224.30.30.60:8079
-#EXTINF:-1,农林卫视
+#EXTINF:-1  tvg-name="农林卫视" group-title="卫视",农林卫视
 http://192.168.31.2:52636/udp/224.30.30.95:8114
-
-#EXTINF:-1,金鹰纪实
+#EXTINF:-1  tvg-name="北京纪实科教" group-title="人文",北京纪实科教
+http://192.168.31.2:52636/udp/224.30.30.8:8027
+#EXTINF:-1  tvg-name="金鹰纪实" group-title="人文",金鹰纪实
 http://192.168.31.2:52636/udp/224.30.30.28:8047
-#EXTINF:-1,纪实人文
+#EXTINF:-1  tvg-name="纪实人文" group-title="人文",纪实人文
 http://192.168.31.2:52636/udp/224.30.30.30:8049
-
-#EXTINF:-1,优漫卡通
-http://192.168.31.2:52636/udp/224.30.30.50:8069
-#EXTINF:-1,卡酷少儿
-http://192.168.31.2:52636/udp/224.30.30.61:8080
-#EXTINF:-1,金鹰卡通
-http://192.168.31.2:52636/udp/224.30.30.43:8062
-#EXTINF:-1,哈哈炫动
-http://192.168.31.2:52636/udp/224.30.30.44:8063
-#EXTINF:-1,动漫秀场
-http://192.168.31.2:52636/udp/224.30.30.119:8138
-
-#EXTINF:-1,四海钓鱼
-http://192.168.31.2:52636/udp/224.30.30.63:8082
-#EXTINF:-1,中华特产
-http://192.168.31.2:52636/udp/224.30.30.65:8084
-#EXTINF:-1,中国天气
-http://192.168.31.2:52636/udp/224.30.30.66:8085
-#EXTINF:-1,快乐垂钓
-http://192.168.31.2:52636/udp/224.30.30.67:8086
-#EXTINF:-1,财富天下
-http://192.168.31.2:52636/udp/224.30.30.69:8088
-#EXTINF:-1,证券服务
-http://192.168.31.2:52636/udp/224.30.30.70:8089
-
-#EXTINF:-1,国学频道
-http://192.168.31.2:52636/udp/224.30.30.57:8076
-#EXTINF:-1,百姓健康
-http://192.168.31.2:52636/udp/224.30.30.62:8081
-#EXTINF:-1,书画频道
-http://192.168.31.2:52636/udp/224.30.30.88:8107
-#EXTINF:-1,汽摩频道
-http://192.168.31.2:52636/udp/224.30.30.90:8109
-
-#EXTINF:-1,东方财经
-http://192.168.31.2:52636/udp/224.30.30.106:8125
-#EXTINF:-1,法治天地
-http://192.168.31.2:52636/udp/224.30.30.107:8126
-#EXTINF:-1,金色学堂
-http://192.168.31.2:52636/udp/224.30.30.108:8127
-
-#EXTINF:-1,魅力足球
-http://192.168.31.2:52636/udp/224.30.30.110:8129
-#EXTINF:-1,乐游
-http://192.168.31.2:52636/udp/224.30.30.112:8131
-#EXTINF:-1,生活时尚
-http://192.168.31.2:52636/udp/224.30.30.116:8135
-#EXTINF:-1,都市剧场
-http://192.168.31.2:52636/udp/224.30.30.117:8136
-
-#EXTINF:-1,游戏风云
-http://192.168.31.2:52636/udp/224.30.30.120:8139
-#EXTINF:-1,家庭理财
-http://192.168.31.2:52636/udp/224.30.30.127:8146
-#EXTINF:-1,优优宝贝
-http://192.168.31.2:52636/udp/224.30.30.128:8147
-
-
-#EXTINF:-1,环球奇观
-http://192.168.31.2:52636/udp/224.30.30.131:8150
-#EXTINF:-1,环球旅游
+#EXTINF:-1  tvg-name="环球旅游" group-title="人文",环球旅游
 http://192.168.31.2:52636/udp/224.30.30.132:8151
-
-#EXTINF:-1,车迷频道
-http://192.168.31.2:52636/udp/224.30.30.176:8195
-#EXTINF:-1,生态环境
+#EXTINF:-1  tvg-name="国学频道" group-title="人文",国学频道
+http://192.168.31.2:52636/udp/224.30.30.57:8076
+#EXTINF:-1  tvg-name="百姓健康" group-title="人文",百姓健康
+http://192.168.31.2:52636/udp/224.30.30.62:8081
+#EXTINF:-1  tvg-name="书画频道" group-title="人文",书画频道
+http://192.168.31.2:52636/udp/224.30.30.88:8107
+#EXTINF:-1  tvg-name="法治天地" group-title="人文",法治天地
+http://192.168.31.2:52636/udp/224.30.30.107:8126
+#EXTINF:-1  tvg-name="中华特产" group-title="人文",中华特产
+http://192.168.31.2:52636/udp/224.30.30.65:8084
+#EXTINF:-1  tvg-name="中国天气" group-title="人文",中国天气
+http://192.168.31.2:52636/udp/224.30.30.66:8085
+#EXTINF:-1  tvg-name="生态环境" group-title="人文",生态环境
 http://192.168.31.2:52636/udp/224.30.30.177:8196
-
-
-#EXTINF:-1,茶频道
+#EXTINF:-1  tvg-name="快乐垂钓" group-title="人文",快乐垂钓
+http://192.168.31.2:52636/udp/224.30.30.67:8086
+#EXTINF:-1  tvg-name="四海钓鱼" group-title="人文",四海钓鱼
+http://192.168.31.2:52636/udp/224.30.30.63:8082
+#EXTINF:-1  tvg-name="金色学堂" group-title="人文",金色学堂
+http://192.168.31.2:52636/udp/224.30.30.108:8127
+#EXTINF:-1  tvg-name="乐游" group-title="人文",乐游
+http://192.168.31.2:52636/udp/224.30.30.112:8131
+#EXTINF:-1  tvg-name="生活时尚" group-title="人文",生活时尚
+http://192.168.31.2:52636/udp/224.30.30.116:8135
+#EXTINF:-1  tvg-name="都市剧场" group-title="人文",都市剧场
+http://192.168.31.2:52636/udp/224.30.30.193:8212
+#EXTINF:-1  tvg-name="环球奇观" group-title="人文",环球奇观
+http://192.168.31.2:52636/udp/224.30.30.131:8150
+#EXTINF:-1  tvg-name="车迷频道" group-title="人文",车迷频道
+http://192.168.31.2:52636/udp/224.30.30.176:8195
+#EXTINF:-1  tvg-name="汽摩频道" group-title="人文",汽摩频道
+http://192.168.31.2:52636/udp/224.30.30.90:8109
+#EXTINF:-1  tvg-name="游戏风云" group-title="人文",游戏风云
+http://192.168.31.2:52636/udp/224.30.30.120:8139
+#EXTINF:-1  tvg-name="魅力足球" group-title="人文",魅力足球
+http://192.168.31.2:52636/udp/224.30.30.110:8129
+#EXTINF:-1  tvg-name="优漫卡通" group-title="动漫",优漫卡通
+http://192.168.31.2:52636/udp/224.30.30.50:8069
+#EXTINF:-1  tvg-name="卡酷少儿" group-title="动漫",卡酷少儿
+http://192.168.31.2:52636/udp/224.30.30.61:8080
+#EXTINF:-1  tvg-name="金鹰卡通" group-title="动漫",金鹰卡通
+http://192.168.31.2:52636/udp/224.30.30.43:8062
+#EXTINF:-1  tvg-name="嘉佳卡通" group-title="动漫",嘉佳卡通
+http://192.168.31.2:52636/udp/224.30.30.20:8039
+#EXTINF:-1  tvg-name="哈哈炫动" group-title="动漫",哈哈炫动
+http://192.168.31.2:52636/udp/224.30.30.44:8063
+#EXTINF:-1  tvg-name="动漫秀场" group-title="动漫",动漫秀场
+http://192.168.31.2:52636/udp/224.30.30.119:8138
+#EXTINF:-1  tvg-name="优优宝贝" group-title="动漫",优优宝贝
+http://192.168.31.2:52636/udp/224.30.30.128:8147
+#EXTINF:-1  tvg-name="东方财经" group-title="财经",东方财经
+http://192.168.31.2:52636/udp/224.30.30.106:8125
+#EXTINF:-1  tvg-name="财富天下" group-title="财经",财富天下
+http://192.168.31.2:52636/udp/224.30.30.69:8088
+#EXTINF:-1  tvg-name="家庭理财" group-title="财经",家庭理财
+http://192.168.31.2:52636/udp/224.30.30.127:8146
+#EXTINF:-1  tvg-name="证券服务" group-title="财经",证券服务
+http://192.168.31.2:52636/udp/224.30.30.70:8089
+#EXTINF:-1  tvg-name="太原-伯乐购" group-title="购物",太原-伯乐购
+http://192.168.31.2:52636/udp/224.30.30.161:8180
+#EXTINF:-1  tvg-name="茶频道" group-title="购物",茶频道
 http://192.168.31.2:52636/udp/224.30.30.192:8211
-#EXTINF:-1,优购物
+#EXTINF:-1  tvg-name="优购物" group-title="购物",优购物
 http://192.168.31.2:52636/udp/224.30.30.141:8160
-#EXTINF:-1,聚鲨环球精选
+#EXTINF:-1  tvg-name="聚鲨环球精选" group-title="购物",聚鲨环球精选
 http://192.168.31.2:52636/udp/224.30.30.212:8231
-#EXTINF:-1,家有购物
+#EXTINF:-1  tvg-name="家有购物" group-title="购物",家有购物
 http://192.168.31.2:52636/udp/224.30.30.213:8232
+#EXTINF:-1  tvg-name="CGTN" group-title="其他",CGTN
+http://192.168.31.2:52636/udp/224.30.30.217:8236
+#EXTINF:-1  tvg-name="CGTN-记录" group-title="其他",CGTN-记录
+http://192.168.31.2:52636/udp/224.30.30.218:8237
+#EXTINF:-1  tvg-name="CGTN-西班牙" group-title="其他",CGTN-西班牙
+http://192.168.31.2:52636/udp/224.30.30.219:8238
+#EXTINF:-1  tvg-name="CGTN-法语" group-title="其他",CGTN-法语
+http://192.168.31.2:52636/udp/224.30.30.220:8239
+#EXTINF:-1  tvg-name="CGTN-阿拉伯" group-title="其他",CGTN-阿拉伯
+http://192.168.31.2:52636/udp/224.30.30.221:8240
+#EXTINF:-1  tvg-name="CGTN-俄语" group-title="其他",CGTN-俄语
+http://192.168.31.2:52636/udp/224.30.30.222:8241
+#EXTINF:-1  tvg-name="CETV-1" group-title="其他",CETV-1
+http://192.168.31.2:52636/udp/224.30.30.53:8072
+#EXTINF:-1  tvg-name="CETV-2" group-title="其他",CETV-2
+http://192.168.31.2:52636/udp/224.30.30.40:8059
+#EXTINF:-1  tvg-name="CETV-4" group-title="其他",CETV-4
+http://192.168.31.2:52636/udp/224.30.30.41:8060
+#EXTINF:-1  tvg-name="CETV-早期教育" group-title="其他",CETV-早期教育
+http://192.168.31.2:52636/udp/224.30.30.231:8250
+#EXTINF:-1  tvg-name="中央新影-中学生" group-title="其他",中央新影-中学生
+http://192.168.31.2:52636/udp/224.30.30.194:8213
+#EXTINF:-1  tvg-name="中央新影-老故事" group-title="其他",中央新影-老故事
+http://192.168.31.2:52636/udp/224.30.30.72:8091
+#EXTINF:-1  tvg-name="中央新影-发现之旅" group-title="其他",中央新影-发现之旅
+http://192.168.31.2:52636/udp/224.30.30.165:8184
