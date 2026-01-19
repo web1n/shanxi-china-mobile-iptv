@@ -87,7 +87,7 @@ def generate_m3u(from_file, dest_name, other=''):
 generate_m3u(
     "山西移动单播原版.txt",
     "山西移动单播.m3u",
-    'catchup="append" catchup-source="starttime=${utc}&endtime=${utcend}"'
+    'catchup="append" catchup-source="starttime=${(b)timestamp}&endtime=${(e)timestamp}"'
 )
 
 generate_m3u(
