@@ -108,6 +108,8 @@ http://sxydzteltc.sx.chinamobile.com:6060/040000001000/3510000100000006000000000
 http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000161/1000.m3u8?
 #EXTINF:-1 catchup="append" catchup-source="starttime=${(b)timestamp}&endtime=${(e)timestamp}" tvg-name="北京卫视" group-title="卫视",北京卫视
 http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000017/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${(b)timestamp}&endtime=${(e)timestamp}" tvg-name="北京卫视超高清" group-title="卫视",北京卫视超高清
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/00000001000000060000000000000549/1000.m3u8?
 #EXTINF:-1 catchup="append" catchup-source="starttime=${(b)timestamp}&endtime=${(e)timestamp}" tvg-name="天津卫视" group-title="卫视",天津卫视
 http://sxydzteltc.sx.chinamobile.com:6060/040000001000/00000001000000060000000000000249/1000.m3u8?
 #EXTINF:-1 catchup="append" catchup-source="starttime=${(b)timestamp}&endtime=${(e)timestamp}" tvg-name="山东卫视" group-title="卫视",山东卫视
@@ -116,6 +118,8 @@ http://sxydzteltc.sx.chinamobile.com:6060/040000001000/3510000100000006000000000
 http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000173/1000.m3u8?
 #EXTINF:-1 catchup="append" catchup-source="starttime=${(b)timestamp}&endtime=${(e)timestamp}" tvg-name="湖北卫视" group-title="卫视",湖北卫视
 http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000014/1000.m3u8?
+#EXTINF:-1 catchup="append" catchup-source="starttime=${(b)timestamp}&endtime=${(e)timestamp}" tvg-name="辽宁卫视" group-title="卫视",辽宁卫视
+http://sxydzteltc.sx.chinamobile.com:6060/040000001000/00000001000000060000000000000367/1000.m3u8?
 #EXTINF:-1 catchup="append" catchup-source="starttime=${(b)timestamp}&endtime=${(e)timestamp}" tvg-name="重庆卫视" group-title="卫视",重庆卫视
 http://sxydzteltc.sx.chinamobile.com:6060/040000001000/35100001000000060000000000000025/1000.m3u8?
 #EXTINF:-1 catchup="append" catchup-source="starttime=${(b)timestamp}&endtime=${(e)timestamp}" tvg-name="贵州卫视" group-title="卫视",贵州卫视
